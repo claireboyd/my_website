@@ -1,0 +1,59 @@
+baseURL: https://claireboyd.netlify.app/
+languageCode: en
+DefaultContentLanguage: en
+title: Claire Boyd
+theme: anatole
+summarylength: 10
+enableEmoji: yes
+enableRobotsTXT: yes
+pygmentsUseClasses: yes
+pygmentsCodeFences: yes
+pygmentsCodefencesGuessSyntax: yes
+params:
+  author: Claire Boyd
+  customCss: []
+  customJs: []
+  description: Data enthusiast and recipe tester, grinding in Washington D.C.
+  doNotLoadAnimations: no
+  favicon: favicons/
+  images: images/site-feature-image.png
+  keywords: ''
+  mainSections: post
+  math:
+    enable: no
+    use: katex
+  profilePicture: images/profile.jpg
+  simpleAnalytics: {}
+  socialIcons:
+    - icon: fas fa-envelope
+      title: e-mail
+      url: mailto:claire.k.boyd@gmail.com
+    - icon: fab fa-twitter
+      title: twitter
+      url: https://twitter.com/clairekboyd
+    - icon: fab fa-linkedin
+      title: Linkedin
+      url: https://www.linkedin.com/in/claire-boyd/
+    - icon: fab fa-github
+      title: GitHub
+      url: https://github.com/claireboyd
+    
+  title: Claire Boyd
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 100
+    - identifier: posts
+      name: Recent Work
+      url: /post/
+      weight: 200
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 300
+   # - identifier: contact
+   #   name: Contact
+   #   url: /contact/
+   #   weight: 400
