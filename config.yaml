@@ -13,7 +13,7 @@ params:
   author: Claire Boyd
   customCss: []
   customJs: []
-  description: Stumbling my way through this website creation
+  description: Data enthusiast and recipe tester, living in Washington D.C.
   doNotLoadAnimations: no
   favicon: favicons/
   images: images/site-feature-image.png
@@ -46,7 +46,7 @@ menu:
       url: /about/
       weight: 100
     - identifier: posts
-      name: Posts
+      name: Recent Work
       url: /post/
       weight: 200
     - identifier: contact

@@ -3,26 +3,16 @@ aliases:
 - about-us
 - about-hugo
 - contact
-author: Hugo Authors
-date: "2019-02-28"
-description: Hugo, the world's fastest framework for building websites
+author: Claire Boyd
+date: "2021-04-09"
+description: Learn more about my interests and experience
 title: About
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Nice to meet you! 
 
-Hugo makes use of a variety of open source projects including:
+As a research analyst at the [Center on Nonprofits and Philanthropy](https://www.urban.org/policy-centers/center-nonprofits-and-philanthropy) at the [Urban Institute](https://www.urban.org/), my work investigates innovative approaches to equitable grantmaking strategies and practices. I contribute to the development of program evaluations and research products that evaluate inventive solutions to shift power within the philanthropic sector. 
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+By seeking out significant training and applying learned techniques, I am relied upon as the primary data analyst contrituting both quantitative and qualitative rigor to complex data analyses.  In addition to my strength in research analysis, I am viewed as an essential thought partner from designing and implementing federal program evaluations to writing RFPs that are centered in equitable grantmaking practices. 
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+To learn more about my work, read some of [my recent work](/posts/) or feel free to [reach out to me directly](/contact/).
