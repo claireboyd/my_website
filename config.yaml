@@ -1,7 +1,7 @@
-baseURL: https://claireboyd.github.io/
+baseURL: https://claireboyd.netlify.app/
 languageCode: en
 DefaultContentLanguage: en
-title: Claire
+title: Claire Boyd
 theme: anatole
 summarylength: 10
 enableEmoji: yes
@@ -10,10 +10,10 @@ pygmentsUseClasses: yes
 pygmentsCodeFences: yes
 pygmentsCodefencesGuessSyntax: yes
 params:
-  author: Claire
+  author: Claire Boyd
   customCss: []
   customJs: []
-  description: Call me Jane
+  description: Stumbling my way through this website creation
   doNotLoadAnimations: no
   favicon: favicons/
   images: images/site-feature-image.png
@@ -25,18 +25,19 @@ params:
   profilePicture: images/profile.jpg
   simpleAnalytics: {}
   socialIcons:
+    - icon: fas fa-envelope
+      title: e-mail
+      url: mailto:claire.k.boyd@gmail.com
+    - icon: fab fa-twitter
+      title: twitter
+      url: https://twitter.com/clairekboyd
     - icon: fab fa-linkedin
       title: Linkedin
       url: https://www.linkedin.com/in/claire-boyd/
     - icon: fab fa-github
       title: GitHub
       url: https://github.com/claireboyd
-    - icon: fab fa-twitter
-      title: twitter
-      url: https://twitter.com/clairekboyd
-    - icon: fas fa-envelope
-      title: e-mail
-      url: mailto:claire.k.boyd@gmail.com
+    
   title: Claire Boyd
 menu:
   main:
